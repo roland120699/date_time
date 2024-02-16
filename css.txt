@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f2f2f2;
+    background-size: cover;
+    background-position: center;
+    color: #333;
+}
+
+h1 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    background-color: #fff; /* Добавим белый фон для каждой задачи */
+    padding: 10px;
+    border-radius: 5px; /* Закруглим углы блока задачи */
+}
+
+form {
+    margin-top: 20px;
+}
+
+input, button {
+    padding: 8px;
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #007BFF;
+    margin-left: 5px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
